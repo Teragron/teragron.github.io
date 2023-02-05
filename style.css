@@ -4,16 +4,19 @@ body {
   padding: 0;
 }
 
-.container {
-  width: 80%;
-  margin: 0 auto;
-  padding: 20px;
-}
-
 h1 {
   text-align: center;
+  margin: 50px 0;
 }
 
 p {
+  width: 80%;
+  margin: 50px auto;
   text-align: justify;
+}
+
+a {
+  display: block;
+  text-align: center;
+  margin: 50px auto;
 }
