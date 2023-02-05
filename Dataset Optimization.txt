@@ -1,4 +1,4 @@
-##From noise to knowledge
+From noise to knowledge
 
 
 To make AI Systems such as LLM's functional, we pre-train them. Then fine-tune them.
