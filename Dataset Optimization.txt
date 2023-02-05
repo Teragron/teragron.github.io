@@ -13,4 +13,3 @@ I think we can also apply such a thing to Language models, meaning we can try to
 almost every aspect of a language model by building smaller models to contribute to the models.
 For example we can train an unsupervised model, which learns to manipulate the initial dataset 
 to minimize the loss of the end-model. Maybe we can even call it Dataset Hyper-Optimization.
-
