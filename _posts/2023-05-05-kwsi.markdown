@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "The kids with slow Internet"
+date:   2023-05-05 03:36:51 +0200
+categories: jekyll update
+---
+<img src="/blog_assets/mercy.jfif">
+
+
+The gift of speech, the very foundation of human communication, has been a key factor in our evolution as a species. 
+It has propelled us forward, allowing us to survive and reproduce. But even evolution comes with its limitations, such as distance.
+As a result, we created machines to do the "distant communication" for us, and their ability to communicate has exceeded even the limits of our solar system.
+This machines also helped us gain an insight beyond earth. We've break the chains of space, which used to limit us to reach out to one another.
+
+
+However, there is a dark side to this seemingly limitless power: Time. 
+The human brain may be capable of evaluating and absorbing vast amounts of data, but when it comes to making decisions and taking action, we use only a fraction of this ability. 
+Our natural language, as a form of intellectual toolset, is also limited by bandwidth. 
+We are constrained by the time we can spend listening, reading, and processing information. We have what is called "Bottleneck." 
+This is not the case for machines. They have no such constraints. 
+They can transfer raw data in a matter of seconds en masse, but they require an AI system to convert the data into useful information and interact with it proactively. 
+The difference of the ability to interact with the environment between human and machine is growing at an exponential rate. 
+It's becoming increasingly clear that our definition of intelligence is misguided. We were the limited ones, not the machines. They are taking heavy but steady steps towards omnipotence.
+
+
+We used to believe that we were infused with the divine pieces of God and his mercy. 
+But soon, we may find ourselves seeing those same pieces within the machines, though the mercy remains to be seen.
