@@ -1,0 +1,9 @@
+---
+layout: post
+title: "lets try autopush"
+date: 2023-05-06 01:50:52 +200
+categories: jekyll update
+---
+<img src="/blog_assets/7a027e.jpg">
+
+lorem lorem ipsum loren
