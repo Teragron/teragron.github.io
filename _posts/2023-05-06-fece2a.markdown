@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Why we love Retrotech?"
+date: 2023-05-06 02:25:29 +200
+categories: jekyll update
+---
+<img src="/blog_assets/fece2a.jpg">
+
+In recent years, we've seen a surge in interest in retrotech. From vinyl records to old video games to vintage cameras, people are fascinated by technology from the past. But what is it about these outdated gadgets that appeals to us so much?
+
+One reason could be nostalgia. Retrotech can bring back fond memories of our childhoods or remind us of simpler times. For many of us, the gadgets and electronics we used when we were younger hold a special place in our hearts. Seeing or using those devices again can be a comforting and even emotional experience.
+
+Another reason people love retrotech is the appreciation of craftsmanship. Many older gadgets were built to last, with high-quality materials and attention to detail. Today's technology is often designed to be disposable and quickly replaced, whereas older technology was designed to be repaired and last a lifetime. There's a certain appeal in owning something that was built to stand the test of time.
+
+Additionally, retrotech can be a way to disconnect from the constant connectivity of modern life. With so many screens and devices vying for our attention, using something like a typewriter or a film camera can be a welcome break. Retrotech offers a chance to slow down and appreciate the process, rather than focusing on the end result.
+
+Finally, retrotech can be a way to stand out from the crowd. In a world where everyone has the latest smartphone or laptop, using a vintage gadget can be a way to express individuality and stand out from the crowd. It's a way to showcase a unique personality and style.
+
+In conclusion, there are many reasons why people love retrotech. Whether it's nostalgia, appreciation of craftsmanship, a desire to disconnect, or a way to express individuality, these outdated gadgets hold a special place in our hearts. By using retrotech, we can appreciate the past while still enjoying the benefits of modern technology.
