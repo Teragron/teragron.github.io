@@ -37,7 +37,7 @@ def generate_markdown_post(title: str, content: str, image: gr.Image):
     try:
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
         cv2.imwrite(f"blog_assets/{unique_id}.jpg",image)
-        src = '<img src="/blog_assets/{unique_id}.jpg">'
+        src = f'<img src="/blog_assets/{unique_id}.jpg">'
     except:
         src = ""
 
