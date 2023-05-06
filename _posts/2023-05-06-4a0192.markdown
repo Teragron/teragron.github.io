@@ -1,9 +1,0 @@
----
-layout: post
-title: "Why do we love retro? 2"
-date: 2023-05-06 02:13:09 +200
-categories: jekyll update
----
-<img src="/blog_assets/4a0192.jpg">
-
-content other
