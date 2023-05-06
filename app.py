@@ -3,7 +3,22 @@ import gradio as gr
 import cv2
 import uuid
 
-def generate_markdown_post(title: str, content: str, image: gr.Image):
+import subprocess
+
+def commit_and_push(file_path: str):
+    # Add the file to Git
+    subprocess.call(['git', 'add', "."])
+
+    # Commit the changes
+    subprocess.call(['git', 'commit', '-m', 'New blog post'])
+
+    # Push the changes to the remote repository
+    subprocess.call(['git', 'push'])
+
+    return "Markdown post committed and pushed successfully!"
+
+
+def generate_markdown_post(title: str, content: str, image=None):
     # Get the current date and time
     now = datetime.datetime.now()
 
@@ -16,6 +31,13 @@ def generate_markdown_post(title: str, content: str, image: gr.Image):
 
     # Format the filename with subdate and unique ID
     filename = f"_posts/{subdate_string}-{unique_id}.markdown"
+    
+    if image:
+        image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+        cv2.imwrite(f"blog_assets/{unique_id}.jpg",image)
+        src = '<img src="/blog_assets/{unique_id}.jpg">'
+    else:
+        src = ""
 
     # Define the Markdown content with the updated title and date
     markdown_content = f"""---
@@ -24,20 +46,16 @@ title: "{title}"
 date: {date_string}+200
 categories: jekyll update
 ---
-<img src="/blog_assets/{unique_id}.jpg">
+{src}
 
 {content}
 """
 
-    # Save the uploaded image to the file system
-    
-    image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
-    
-    cv2.imwrite(f"blog_assets/{unique_id}.jpg",image)
-
     # Write the Markdown content to the file with the formatted filename
     with open(filename, "w") as f:
         f.write(markdown_content)
+        
+    commit_and_push(filename)
 
     return f"Markdown post created at {filename}"
 

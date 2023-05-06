@@ -1,0 +1,9 @@
+---
+layout: post
+title: "On retrotech"
+date: 2023-05-06 02:00:48 +200
+categories: jekyll update
+---
+
+
+lorem ipsum
