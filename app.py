@@ -59,7 +59,7 @@ categories: jekyll update
         
     commit_and_push(filename)
 
-    return f"Markdown post created at {filename}"
+    return f"New Blog: {title}"
 
 title = "Markdown Blog Post Generator"
 description = "This app generates a Markdown blog post with the given title, content, and image."

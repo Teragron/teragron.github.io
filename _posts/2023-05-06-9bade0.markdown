@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "another post 2"
-date: 2023-05-06 02:06:55 +200
+title: "Why do we love retro?"
+date: 2023-05-06 02:11:42 +200
 categories: jekyll update
 ---
 <img src="/blog_assets/{unique_id}.jpg">
 
-new content 2
+Content
