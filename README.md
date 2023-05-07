@@ -1,4 +1,4 @@
-[![Showcase]()]([](https://teragron.github.io/))
+[![Showcase](https://teragron.github.io/)]
 
 
 # Web UI for Blog Posting
