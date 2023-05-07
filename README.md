@@ -38,3 +38,4 @@ start http://127.0.0.1:7861
 pause
 ```
 
+Last Blog Posts were written by ChatGPT for demo purposes
