@@ -1,4 +1,4 @@
-[teragron.github.io]((https://teragron.github.io/)
+[teragron.github.io](https://teragron.github.io/)
 
 # Web UI for Blog Posting
 
