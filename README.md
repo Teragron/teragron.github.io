@@ -1,4 +1,4 @@
-[![teragron.github.io](teragron.github.io)](teragron.github.io)
+[![teragron.github.io]()](teragron.github.io)
 
 
 # Web UI for Blog Posting
