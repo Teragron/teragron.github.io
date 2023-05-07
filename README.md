@@ -14,6 +14,7 @@
 ## How it works
 This code generates a Markdown blog post with tne given title, content, and image input. 
 It uses the Gradio library to provide a user interface for entering the required data.
+Double click on the app.bat file to run the Web UI after installing the packages inside the requirements.txt file.
 
 ## Functions
 
@@ -26,3 +27,13 @@ The Markdown content is then committed to Git and pushed to a remote repository.
 The user interface is defined using Gradio. It consists of three input fields: one for the title, one for the content, and one for uploading an image. When the user submits the data, the generate_markdown_post() function is called and the output is displayed.
 
 Overall, this code provides an easy way to generate a Markdown blog post with an image and push it to a remote repository using Git.
+
+To run the app locally, I've created a desktop shortcut and connected to a batch file with the following content:
+
+```
+@echo off
+"C:\Users\ahmet\anaconda3\envs\valley\python.exe" "C:\Users\ahmet\Desktop\teragron.github.io/app.py"
+start http://127.0.0.1:7861
+pause
+```
+
