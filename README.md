@@ -3,9 +3,18 @@
 
 # Webui for Blog Posting
 
+
+
 ## Demo
 
-[!](blog)[https://youtu.be/6mGIGsPa9Ww]
+[![Open in Spaces](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/teragron/blogui)
+
+(You can clone this space to your local machine)
+
+## Showcase
+
+[![Showcase](https://img.youtube.com/vi/6mGIGsPa9Ww/0.jpg)](https://youtu.be/6mGIGsPa9Ww)
+
 
 ## How it works
 This code generates a Markdown blog post with a title, content, and image input. 
