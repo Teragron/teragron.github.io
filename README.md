@@ -1,7 +1,9 @@
 # teragron.github.io
 
 
-# Web UI for Blog Posting (Check out how the it looks like)
+# Web UI for Blog Posting
+
+You can check out how the Web UI looks like on HuggingFace:
 
 [![Open in Spaces](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/teragron/blogui)
 
