@@ -1,9 +1,0 @@
----
-layout: post
-title: "lorem ipsum"
-date: 2023-05-11 00:35:20 +200
-categories: jekyll update
----
-<img src="/blog_assets/2b5a11.jpg">
-
-lorem lorem
