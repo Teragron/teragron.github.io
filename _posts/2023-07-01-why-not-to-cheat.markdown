@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Technological Transparency: Unmasking the Past and Shaping a Future of Accountability"
-date:   2023-05-05 23:04:00 +0200
+date:   2024-07-01 23:04:00 +0200
 categories: jekyll update
 ---
 <img src="/blog_assets/txt2txt.jpeg">
