@@ -29,13 +29,6 @@ The user interface is defined using Gradio. It consists of three input fields: o
 
 Overall, this code provides an easy way to generate a Markdown blog post with an image and push it to a remote repository using Git.
 
-To run the app locally, I've created a desktop shortcut and connected to a batch file with the following content:
 
-```
-@echo off
-"C:\Users\ahmet\anaconda3\envs\valley\python.exe" "C:\Users\ahmet\Desktop\teragron.github.io/app.py"
-start http://127.0.0.1:7861
-pause
-```
 
 Last Blog Posts were written by ChatGPT for demo purposes
