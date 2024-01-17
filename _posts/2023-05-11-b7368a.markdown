@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Future of wearable technologies and transhumanism"
-date: 2023-05-11 03:18:20 +200
+date: 2024-05-11 03:18:20 +200
 categories: jekyll update
 ---
 <img src="/blog_assets/b7368a.jpg">
